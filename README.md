@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Md Zahir Ahmed
 
 🎓 Graduate Researcher in AI-driven systems, formal methods, and infrastructure monitoring.  
-🧠 Currently publishing 5 papers aligned with **LLMs**, **Temporal Logic**, and **Smart Infrastructure** (for NIW and PhD).
+🧠 Currently publishing 5 papers aligned with **LLMs**, **Temporal Logic**, and **Smart Infrastructure**.
 
 ---
 
